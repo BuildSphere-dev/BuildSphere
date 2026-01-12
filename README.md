@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BuildSphere-dev/.github/main/profile/world%20tech%20logo%20template.%20Modern%20icon%20globe,%20sphere,%20technology%20logo%20design%20template.png"
+<img src="https://github.com/BuildSphere-dev/.github/blob/main/world%20tech%20logo%20template.%20Modern%20icon%20globe%2C%20sphere%2C%20technology%20logo%20design%20template.png"
      alt="BuildSphere Logo"
      width="180"/>
 
