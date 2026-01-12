@@ -120,6 +120,38 @@ Inspired by enterprise platforms like <em>Odoo</em>.
 
 <h2>📈 Engineering Focus Distribution</h2>
 
+<table width="100%">
+<tr>
+<td width="25%"><strong>AI & Automation</strong></td>
+<td width="75%">
+<progress value="35" max="100"></progress> 35%
+</td>
+</tr>
+
+<tr>
+<td><strong>Full-Stack Systems</strong></td>
+<td>
+<progress value="30" max="100"></progress> 30%
+</td>
+</tr>
+
+<tr>
+<td><strong>System Architecture</strong></td>
+<td>
+<progress value="20" max="100"></progress> 20%
+</td>
+</tr>
+
+<tr>
+<td><strong>Hackathons & Rapid Prototyping</strong></td>
+<td>
+<progress value="15" max="100"></progress> 15%
+</td>
+</tr>
+</table>
+
+<p><em>Distribution reflects current project priorities and evolves over time.</em></p>
+
 <p align="center">
 <img src="https://quickchart.io/chart?c={
   type:'doughnut',
